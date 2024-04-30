@@ -1,5 +1,7 @@
 # CodeAlpha_Project_AgeCalculator
+
 Title: Simple Age Calculator with HTML, CSS, and JavaScript
+
 Description:
 This project is a user-friendly age calculator built using fundamental web development technologies: HTML, CSS, and JavaScript. It allows users to enter their date of birth and instantly calculates their age in years, months, and days.
 
